@@ -41,6 +41,9 @@
   environment.systemPackages = with pkgs; [
     vim
     git
+    gh
+    glab
+    micro
     wget
     curl
     htop
